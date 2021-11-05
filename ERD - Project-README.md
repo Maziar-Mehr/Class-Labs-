@@ -1,6 +1,6 @@
 # ERD PROJECT - TRANSPORTATION 
 The following is a conceptual ERD proposal for public transportation in a city. 
-![ERD Transportation (1)](https://user-images.githubusercontent.com/88034001/140491429-a9a7524d-1127-4d5d-a2a6-2d5b996e8009.jpeg)
+![ERD Transportation (2)](https://user-images.githubusercontent.com/88034001/140499170-225901b8-e741-4391-b53e-27af49589fbc.jpeg)
 ## Below is the test code for mysql which should be able to answer the following scenarios. 
 ### Whats the average journey time between any two public transport (ubahn or metro) stations?
 feild journey time is calculated based on departure and arrival from each station id to the next.
