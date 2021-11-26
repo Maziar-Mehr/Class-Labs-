@@ -39,3 +39,11 @@ The following steps are an introduction to data bricks, including screenshots fr
 ### 8.Creating new SQL notebook
 
 <img width="963" alt="Creating SQL notebook" src="https://user-images.githubusercontent.com/88034001/143604703-03ab93e0-bad6-40de-aa46-42c3e755ef00.png">
+
+### 9.Run a simple sql select query against the data source cars_EV.csv you have imported
+
+![Run_sql query on imported data](https://user-images.githubusercontent.com/88034001/143607686-d3081ee1-8740-43b3-acaa-50b20e96cd5c.png)
+
+### 10.Import premade notebook with URL 
+
+![Import premade work book from url](https://user-images.githubusercontent.com/88034001/143608304-a267977f-f14b-4058-b865-0fed00b335ba.png)
